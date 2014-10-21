@@ -1,0 +1,2 @@
+recursive-include zoterobib/static *
+recursive-include zoterobib/templates *
